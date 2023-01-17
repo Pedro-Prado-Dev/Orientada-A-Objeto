@@ -17,7 +17,7 @@ public abstract class Disciplina  implements IDisciplinaService {
             System.out.println("Nome: " + aluno.nome);
             System.out.println("Curso: " + aluno.curso);
             System.out.println("Matricula: "+ aluno.matricula +"\n");
-            System.out.println("------------------------------------------");
+            System.out.println("------------------------------------------  ");
         }
     }
 
